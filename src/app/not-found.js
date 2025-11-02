@@ -48,7 +48,7 @@ export default function NotFound() {
               transition={{ delay: 0.6 }}
               className="text-xl text-slate-600 dark:text-slate-300 mb-8"
             >
-              The page you're looking for doesn't exist or has been moved.
+              The page you&apos;re looking for doesn&apos;t exist or has been moved.
             </motion.p>
             
             <motion.div
@@ -81,4 +81,3 @@ export default function NotFound() {
     </MaterialUIThemeProvider>
   );
 }
-
