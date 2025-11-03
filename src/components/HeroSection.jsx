@@ -52,11 +52,7 @@ export default function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.6 }}
           >
-            Frontend Developer with <span className="font-semibold text-yellow-600 dark:text-yellow-400">1+ years</span> of experience specializing in 
-            <span className="font-semibold text-orange-600 dark:text-orange-400"> responsive web design</span> and 
-            <span className="font-semibold text-red-600 dark:text-red-400"> e-commerce development</span>. 
-            Expert in HTML5, CSS3, and JavaScript with proven React.js skills. Strong eye for pixel-perfect design implementation 
-            and cross-browser compatibility.
+            Detail‑oriented Frontend Engineer with <span className="font-semibold text-yellow-600 dark:text-yellow-400">1+ years</span> experience building scalable and secure <span className="font-semibold text-orange-600 dark:text-orange-400">Reactjs and Nextjs</span> applications. Skilled in <span className="font-semibold text-red-600 dark:text-red-400">performance optimization</span>, Micro‑Frontends, UX improvements, and internal tooling. Focused on user‑centric design, risk visibility, and improving actionable data clarity for better decision‑making.
           </motion.p>
           
           <motion.div 
